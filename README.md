@@ -1,0 +1,1 @@
+Actually it is not a project. It is something which will help you understanding CSS more. Only CSS has been used here not even bootstarp. One can understand the functionality of margin, padding, float etc
